@@ -1,0 +1,41 @@
+_JTgng_
+1942
+1943
+biocom
+btiger
+commando
+exed
+f1dream
+gng
+gunsmoke
+hige
+rumble
+sarms
+sectionz
+sf
+tora
+trojan
+vulgus
+
+_JTcontra_
+comsc
+contra
+mx5k
+labrun
+
+_JTdd_
+ dd
+ dd2
+
+_JTbubl_
+bubl
+
+_JTcps_
+cps1
+cps15
+cps2
+
+=CORES AUN EN BETA NO DISPONIBLES PARA DB9=
+s16   (BETA S16)
+dd    (BETA Modo Turbo -JTdd_)
+dd2   (BETA Modo Turbo -JTdd_)
